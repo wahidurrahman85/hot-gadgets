@@ -1,4 +1,35 @@
-.align-right {
-    text-align: right;
-    
+.container {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.buy-now-btn {
+    background-color: black ;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    }
+.smartphone {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card-footer {
+    border: none;
+
+}
+.catergories {
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}
+.bag-style {
+    padding: 30px 30px;
+    background-color: oldlace;
+}
+.image-style {
+    margin-bottom: 20px;
 }
